@@ -1,0 +1,34 @@
+body{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif; ;
+    font-size: 1.4rem;
+    color: #333;
+    background-color: rgb(230, 223, 223);
+    line-height: 1.6;
+    margin-top: 15px;
+}
+
+div .img{
+    background-color: white;
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+}
+.centre{
+    text-align: center;
+
+}
+ul{
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+}
+li{
+    margin: 15px;
+}
+
+.quote{
+    font-style: italic;
+    text-align: left;
+    max-width: 545px;
+    margin: 0 auto 50px auto;
+}
